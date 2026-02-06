@@ -40,6 +40,11 @@ Related work
 This paper extends:
 Attachment as Mirror Control: A Control-Theoretic Model of Externalized Self-Representation (2026)
 
+This work is licensed under **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+Commercial use requires permission. For commercial licensing inquiries, contact the author.
+
+
 Archival
 This repository is archived via Zenodo.
 DOI available in the GitHub Releases.
